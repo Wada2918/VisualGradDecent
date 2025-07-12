@@ -32,7 +32,7 @@ Built with:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourname/gradient-descent-visualizer.git
+git clone https://github.com/Wada2918/VisualGradDecent.git
 cd gradient-descent-visualizer
 ```
 
