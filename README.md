@@ -23,10 +23,7 @@ Built with:
 
 ## 🖼 Preview
 
-> Coming soon — add screenshots or gifs showing:
-> - Side-by-side curves
-> - Start/stop descent
-> - Clipped vs normalized descent
+![Descent Preview](preview.png)
 
 ---
 
